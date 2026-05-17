@@ -1,4 +1,4 @@
-# content-strategy-templates
+# Content-strategy-templates
 
 A practical collection of content strategy templates built from real freelance and professional experience. Every template in this repository is fully filled out and ready to use as a working reference or adapt for your own projects. There are no empty fields or placeholder instructions — only complete, usable documents.
 
